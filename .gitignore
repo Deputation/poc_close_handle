@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs
+/MinHook/include
+/poc_close_handle/x64/Release
+/poc_close_handle_module/x64/Release
+/poc_close_handle_victim/x64/Release
