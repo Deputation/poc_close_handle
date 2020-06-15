@@ -6,6 +6,6 @@ This repository contains three projects: poc_close_handle_module, poc_close_hand
 
 This project demonstrates the possibility to hook CloseHandle, a function in kernel32.dll. By hooking such a function we have the ability to use every handle used by the target/victim application before it's closed. Everything in this repository is here for educational purposes and i do not condone its use for any other reason, the project was written in 30 minutes on a sunday, so take its code with a grain of salt and feel free to open pull requests.
 
-The repository DOES NOT include the MinHook hooking library. You're meant to add it yourself, Debug or x86 configurations are not available. This is for the sole purpose of stopping people from abusing of the code in this repository. 
+The repository DOES NOT include the MinHook hooking library. You're meant to add it yourself, Debug or x86 configurations are not available. This is for the sole purpose of stopping people from abusing the code in this repository by limiting its functionalities. 
 
 I decline any liability & warranty regarding this project. I am not to be held liable for anything anyone might use anything that can be found in this repository for. For more information, read the GPLv3 License, provided in the file named "LICENSE" inside the repository.
