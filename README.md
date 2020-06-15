@@ -8,4 +8,4 @@ This project demonstrates the possibility to hook CloseHandle, a function in ker
 
 The repository DOES NOT include the MinHook hooking library. You're meant to add it yourself, Debug or x86 configurations are not available. This is for the sole purpose of stopping kids from abusing of the code in this repository. 
 
-I decline any liability & warranty regarding this project. I am not to be held liable for anything anyone might use anything that can be found in this repository for. For more information, reead the GPLv3 License, provided in the file named "LICENSE" inside the repository.
+I decline any liability & warranty regarding this project. I am not to be held liable for anything anyone might use anything that can be found in this repository for. For more information, read the GPLv3 License, provided in the file named "LICENSE" inside the repository.
