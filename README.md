@@ -3,8 +3,7 @@
 
 Everything in this repository is released under the MIT license.
 
-I AM NOT TO BE HELD RESPONSIBLE FOR ANY SORT OF USAGE OF ANYTHING IN THIS REPOSITORY. 
-I.E. do not come to me for anything regarding this.
+I AM NOT TO BE HELD RESPONSIBLE FOR ANY SORT OF USAGE REGARDING ANYTHING IN THIS REPOSITORY. 
 
 This repository contains three projects: poc_close_handle_module, poc_close_handle_loader, poc_close_handle_victim. The first is the module, the core functionality of the project, the second is a simple CreateRemoteThread dynamic linked library loader, while the third is a simple victim / target / dummy application that loads the library on its own to demonstrate its functionality. 
 
