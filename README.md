@@ -1,8 +1,6 @@
 
 # poc_close_handle
 
-## Hooking the CloseHandle function in trusted, signed applications to steal process handles.
-
 ## Code
 Everything in this repository is released under the MIT license.
 
